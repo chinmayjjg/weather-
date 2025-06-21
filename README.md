@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌤️ Weather App
 
 A beautiful, modern weather application built with HTML, CSS, and JavaScript that fetches real-time weather data from the OpenWeatherMap API.
@@ -130,3 +131,6 @@ If you have any questions or need help, please open an issue on GitHub.
 ---
 
 **Note**: Remember to keep your API key secure and never commit it to version control. Consider using environment variables for production deployments. 
+=======
+# weather-
+>>>>>>> 7a2618078de97e21a4338fa0d9b216d8666bb5d9
